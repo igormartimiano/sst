@@ -1,5 +1,11 @@
 # @serverless-stack/cli2
 
+## 2.0.0-rc.54
+
+### Patch Changes
+
+- [`b74740f38`](https://github.com/serverless-stack/sst/commit/b74740f38409a7375855da589471f2884ed2a379) Thanks [@fwang](https://github.com/fwang)! - Show warning when switching between dev/deploy
+
 ## 2.0.0-rc.53
 
 ### Patch Changes
